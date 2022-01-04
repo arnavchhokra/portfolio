@@ -1,0 +1,118 @@
+#header{
+    background-size: 100%;
+    margin:0;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f3f3f3;
+
+  }
+  
+  li {
+    float: right;
+    
+  }
+  li.moi
+  {
+      float: left;
+  }
+
+ 
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: rgb(85, 83, 83);
+  }
+
+  #projekt
+  {
+    padding: 5px;
+  }
+
+
+  
+  
+  li a:hover {
+    color: grey;
+  }
+
+
+body{
+    background-color:#f3f3f3;  
+    
+}
+
+#center
+{
+    text-align: left;
+    padding-left: 750px;
+    padding-top: 110px;
+
+}
+#image {
+  padding-top:100px;
+  padding-left:275px;
+
+}
+
+#footer
+{
+    padding-top:150px;
+}
+
+#hell{
+font-family:sans-serif;
+font-size: 150px;
+}
+
+#bolder{
+  font-family:sans-serif;
+  font-size:45px;
+}
+#subtexti{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:25;
+}
+
+#footer
+{
+  margin:2px;
+}
+
+#certificates{
+  text-align: center;
+  padding-top:50px;
+  border-radius: 10px;
+}
+
+#tet{
+  text-align:center;
+  padding-top:70px;
+  font-family: sans-serif;
+  font-size: 45px;
+  color:rgb(39, 37, 37);
+
+}
+
+#mb-3
+{
+  text-align:center;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+#bulu
+{
+  text-align: center;
+}
