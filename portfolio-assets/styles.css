@@ -35,10 +35,7 @@ ul {
     color: rgb(85, 83, 83);
   }
 
-  #projekt
-  {
-    padding: 5px;
-  }
+  
 
 
   
@@ -63,12 +60,12 @@ body{
 #image {
   padding-top:100px;
   padding-left:275px;
-
 }
 
 #footer
 {
     padding-top:150px;
+    padding-left:15px;
 }
 
 #hell{
@@ -97,10 +94,11 @@ font-size:25;
 }
 
 #tet{
-  text-align:center;
-  padding-top:70px;
+  text-align:left;
+  padding-top:40px;
+  padding-left: 188px;
   font-family: sans-serif;
-  font-size: 45px;
+  font-size: 35px;
   color:rgb(39, 37, 37);
 
 }
@@ -111,8 +109,50 @@ font-size:25;
   font-family: sans-serif;
   font-size: 20px;
 }
+#mb-2
+{
+  text-align:center;
+  font-family: sans-serif;
+  font-size: 20px;
+  
+
+}
 
 #bulu
 {
   text-align: center;
 }
+
+#certificates
+{
+  text-align:left;
+  font-family: sans-serif;
+  font-weight:600;
+  padding-left: 200px;
+  color:rgb(39, 37, 37);
+  font-size:20px;
+}
+
+#subs
+{
+  text-align:left;
+  padding-left: 600px;
+  
+  color:grey;
+}
+
+#line
+{
+  text-align:center;
+  padding-right:70px;
+  color:rgb(39, 37, 37);
+  font-weight: 800;
+  font-size: 20px;
+}
+
+#projekt
+  {
+    padding-left: 600px;
+    float:left;
+    
+  }
